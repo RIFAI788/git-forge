@@ -1,8 +1,8 @@
 # Git Forge — a GitHub-compatible git forge in one Node process
 
 [![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun rank](https://make.fun/badge/github-core-clone-01/rank/rifai788/git-forge.svg)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun reward](https://make.fun/badge/github-core-clone-01/reward/rifai788/git-forge.svg)](https://make.fun/bounty/github-core-clone-01)
+[![make.fun rank](https://make.fun/badge/github-core-clone-01/RIFAI788/git-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01)
+[![make.fun reward](https://make.fun/badge/github-core-clone-01/RIFAI788/git-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01)
 
 A standalone forge that speaks GitHub's protocols from a single process with
 no outside services and no git binary: git smart HTTP (protocol v2 and v0),
